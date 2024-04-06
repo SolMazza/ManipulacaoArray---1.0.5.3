@@ -1,14 +1,11 @@
-<h1> 💠TEXTO💠</h1>
+<h1> 💠Manipulação de Array com o Map💠</h1>
 
 <div>
-⚪Texto;
+⚪Faça uma função que irá retornar um array de objetos(Com base no array já existente da questão). Essa função deve adicionar uma nova propriedade de nome `apresentacao` que será gerada conforme o `genero` da pessoa. Veja os templates abaixo. Você deve utilizar o `map` para isso. 
   <br>
-⚪Texto;
+⚪`nao-binario` Dr(e) `nome` + `sobrenome`;
   <br>
-⚪Texto;
+⚪`masculino` Dr. `nome` + `sobrenome`;
   <br>
-⚪Texto;
-  <br>
-⚪Texto.
-
+⚪`feminino` Dr(a) `nome` + `sobrenome`;
 </div>
